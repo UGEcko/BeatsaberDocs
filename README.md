@@ -1,2 +1,2 @@
 # BeatsaberDocs
-Documentation for (hopefully) every single method, interface, field, and more in the beatsaber source code. Dont ask why, im bored and I like helping people.
+If you arent modding Beatsaber, this probably isnt where you'd like to be. However if you are a nerd, go to the [Wiki](https://github.com/UGEcko/BeatsaberDocs/wiki)
